@@ -7,7 +7,7 @@ A comprehensive bash script for comparing two folder structures to identify diff
 ### Core Functionality
 - **Size Comparison**: Compare folder and subfolder sizes at configurable depths
 - **File Type Analysis**: Count and compare specific file types (case-insensitive option)
-  - **Total Counts**: Shows total count of each file type across both folders
+- **Total Counts**: Shows total count of each file type across both folders
 - **File List Differences**: Identify files that exist in one folder but not the other
 - **Summary Statistics**: Overall metrics including total size, file count, and directory count
 - **Deep Scan Mode**: Detailed listing of all subfolders with size in GB and file counts
